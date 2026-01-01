@@ -1,0 +1,17 @@
+#pragma once
+#include <cstdio>
+#include <string>
+#include <vector>
+#include <random>
+#include <chrono>
+#include <utility>
+#include <valarray>
+#include <stdexcept>
+#include <algorithm>
+#include <functional>
+#include <unordered_set>
+#include "tools.h"
+#include "initf.h"
+#include "lossf.h"
+#include "matrix.h"
+#include "activatef.h"
