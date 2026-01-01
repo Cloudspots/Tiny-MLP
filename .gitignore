@@ -361,3 +361,11 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Lionblaze defined
+main.exe
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+x64/
