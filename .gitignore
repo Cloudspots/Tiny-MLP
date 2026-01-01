@@ -363,7 +363,7 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # Lionblaze defined
-main.exe
+*.exe
 *.sln
 *.vcxproj
 *.vcxproj.filters
